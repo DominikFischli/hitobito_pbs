@@ -5,7 +5,7 @@
 
 module Pbs
   module ContactAttrs
-    module ControlBuilder
+    module EventControlBuilder
       extend ActiveSupport::Concern
 
       included do
